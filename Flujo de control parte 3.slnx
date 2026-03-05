@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Flujo de control parte 3/Flujo de control parte 3.vcxproj" />
+</Solution>
